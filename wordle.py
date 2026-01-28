@@ -58,4 +58,4 @@ while oportunidades < 6: #tenemos 6 oportunidades
             break
     else:
         print("la palabra que ingresaste no es valida debe ser de 5 caracteres") 
-print("GRACIAS POR JUGAR")  
+print("GRACIAS POR JUGAR")
